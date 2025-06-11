@@ -21,3 +21,7 @@ genai_interfacesConfig.cmake
 genai_interfacesConfigVersion.cmake
 genai_interfacesTargets.cmake
 ```
+
+## Test with a dummy backend
+
+Test the interface library using a dummy backend by following the instructions at [dummy backend example](https://github.com/ynimmaga/dummy_interface_example/edit/main/README.md)
